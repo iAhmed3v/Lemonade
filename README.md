@@ -1,27 +1,12 @@
-Project: Lemonade App - Starter Code
+Project: Lemonade App 
 ==================================
 
-Starter code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+![Screenshot_20220713-1233222222_](https://user-images.githubusercontent.com/85061997/179171886-20a120dd-9fb5-4ea7-b1f5-8f4cb9d70f85.png)   ![Screenshot_20220713-123330000_](https://user-images.githubusercontent.com/85061997/179172133-402aa29c-e58e-468f-b7ab-86d2cf04ce55.png)
 
-Introduction
-------------
+![Screenshot_20220713-1233344444_](https://user-images.githubusercontent.com/85061997/179172175-6320380a-7ea1-42c5-9599-9536bad9bfb7.png)    ![Screenshot_20220713-123336666_](https://user-images.githubusercontent.com/85061997/179172207-83a9707c-bf82-4cec-9f37-a1c0ed5ee25d.png)
 
-This is the starter code for the Lemonade app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-four) of Android Basics [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1). This project is an opportunity for you to demonstrate the concepts you learned in the unit.
 
-Pre-requisites
---------------
 
-- Complete [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) of Android Basics in Kotlin
 
-Getting Started
----------------
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade)
 
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
